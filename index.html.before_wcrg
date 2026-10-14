@@ -1367,15 +1367,7 @@
         </div>
         <div class="glass-card command-card"><div class="card-title"><i class="fas fa-satellite-dish"></i> Weather Center</div><div class="favorite-name"><i class="fas fa-star"></i><span id="favoriteLocation">No saved location</span></div><div class="command-grid"><button id="favoriteBtn" class="command-btn"><i class="far fa-star"></i> Save place</button><button id="shareBtn" class="command-btn"><i class="fas fa-share-nodes"></i> Share view</button><button id="copyCoordsBtn" class="command-btn"><i class="fas fa-copy"></i> Copy coords</button><button id="clearFavoriteBtn" class="command-btn"><i class="fas fa-rotate-left"></i> Clear saved</button></div><div id="commandFeedback" class="coord-copy"></div><div class="health-row">Forecast health<div class="health-meter"><span id="forecastHealth"></span></div><strong id="forecastHealthLabel">Ready</strong></div></div>
         <div class="glass-card"><div class="card-title"><i class="fas fa-triangle-exclamation"></i> Alert Center</div><div id="alertCenter" class="alert-center"><i class="fas fa-circle-check"></i><span>Choose a location to calculate local weather alerts.</span></div></div>
-        <div class="glass-card developer-credit-card">
-            <div class="card-title"><i class="fas fa-code"></i> Dashboard Credits</div>
-            <div style="text-align:center; color:var(--text-dim); font-size:.76rem; line-height:1.5;">
-                Designed, Developed &amp; Maintained by<br>
-                <a href="https://singhshiwam.github.io/" target="_blank" rel="noopener" style="color:var(--accent-pink); font-weight:800; text-decoration:none;">
-                    <i class="fas fa-user-gear"></i> Shiwam Singh
-                </a>
-            </div>
-        </div>
+
     </div>
 
       </div><!-- /.sheet-scroll -->
